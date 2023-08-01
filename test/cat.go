@@ -2,6 +2,6 @@ package test
 
 import "fmt"
 
-func cay() {
+func Cay() {
 	fmt.Println("cay")
 }

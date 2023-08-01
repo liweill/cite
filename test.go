@@ -2,6 +2,6 @@ package cite
 
 import "fmt"
 
-func dog() {
+func Dog() {
 	fmt.Println("狗")
 }
